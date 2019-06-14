@@ -15,6 +15,6 @@ permalink: results/
 
 ## Бресткая областная олимпиада
 
-* [2019, Брест]({{ "results/brest/2019" | relative_url }})
+* [2019, Пинск]({{ "results/brest/2019" | relative_url }})
 * [2018, Брест]({{ "results/brest/2018" | relative_url }})
 * [2017, Брест]({{ "results/brest/2017" | relative_url }})
